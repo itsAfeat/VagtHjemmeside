@@ -128,3 +128,8 @@ label {
 .row {
   padding-top: 1rem;
 }
+
+.blank-link {
+  text-decoration: none;
+  color: var(--fore-col);
+}
